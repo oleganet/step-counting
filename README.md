@@ -40,4 +40,3 @@ export default function StepCounter() {
                 <Button onClick={handleReset} variant="secondary" className="w-full">Reset</Button>
             </div>
         </div>
-juppo
