@@ -41,3 +41,4 @@ export default function StepCounter() {
             </div>
         </div>
 6789
+789
